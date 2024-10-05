@@ -1,0 +1,1 @@
+The addition of convolutional layers with max pooling helps convolutional neural networks perform better. These layers enable the networks to recognize complex patterns and learn structured representations, leading to improved accuracy and overall performance.
